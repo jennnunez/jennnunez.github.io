@@ -1,0 +1,29 @@
+body {
+background-color:#c8ff66;
+}
+
+h1{
+color:#000000;
+text-align: center;
+font family:'Merriweather', serif;
+}
+
+h2{
+	color:#000000;
+	text-align:center;
+	font family:'Merriweather', serif;
+}
+
+p{
+paddling:50px;
+text-align:left;
+fontsize:20px;
+}
+
+img{
+padding:50px;
+}
+
+p{
+	font family:'Merriweather', serif;
+}
