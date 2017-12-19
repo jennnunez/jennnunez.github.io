@@ -1,9 +1,9 @@
 body{
-background-color:#f4bdae;
+background-color:#fff3f7;
 }
 
 h1{
-color:white;
+color:#000000;
 text-align:center;
 font-family: 'Rufina', serif;
 }
@@ -20,4 +20,15 @@ padding:50px;
 
 p {
 	font-family: 'Rufina', serif;
+}
+
+a{text-decoration: none;
+}
+
+a:visited{
+	color:#923c3c;
+}
+
+a:hover{
+	color:#c32b2b;
 }

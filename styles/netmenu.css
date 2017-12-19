@@ -29,15 +29,24 @@ p{
 }
 a{text-decoration: none;
 }
-
 a:visited{
-	color:#253362;
+	color:#923c3c;
 }
 
 a:hover{
-	color:#0f61a0;
+	color:#c32b2b;
+}
+.column {
+    float: left;
 }
 
+.left, .right {
+    width: 25%;
+}
+
+.middle {
+    width: 50%;
+}
 
 }
 body
